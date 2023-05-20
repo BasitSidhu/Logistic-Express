@@ -1,0 +1,31 @@
+
+
+.Footer-bg{
+    --bs-bg-opacity: 1;
+    background-color: #84201B !important;
+}
+.Footer-social  {
+    color: #FFFFFF;
+    background-color: #84201B;
+    border-color: #FFFFFF;
+    transition: transform .2s;
+  }
+.Footer-btn-primary {
+    color: #FFFFFF;
+    background-color: #84201B;
+    border-color: #84201B;
+    transition: transform .2s;
+  }
+
+  .Footer-btn-primary:hover{
+    transform: scale(1.2);
+    color: #FFFFFF;
+    background-color: #84201B;
+    border-color: #84201B;
+  }
+ .footer-email{
+  background: #dddada;
+ }
+ .footer-text{
+  color:#84201B;
+ }

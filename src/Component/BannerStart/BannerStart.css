@@ -1,0 +1,38 @@
+.bannerStart .text-bannerStart{
+    color: #84201B;
+    padding: 0px 24px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.bannerStart .information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background: white;
+    opacity: .8;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 6px; */
+}
+.bannerStart .parent-circle{
+    border: 3px solid white;
+    border-radius: 52%;
+    height: 140px;
+    width: 140px;
+    opacity: .9;
+}
+.bannerStart .parent-circle-money{
+    border: 3px solid white;
+    border-radius: 52%;
+    height: 210px;
+    width: 210px;
+    opacity: .9;
+}
+.bannerStart .bannerStart-option{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+
+}

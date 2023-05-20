@@ -1,0 +1,20 @@
+.topbar-phone {
+    width: 50px;
+    height: 50px;
+}
+.topbar-social{
+    gap: 5px;
+}
+
+.topbar-social .btn-primary {
+  color: #FFFFFF;
+  background-color: #84201B;
+  border-color: #84201B;
+  transition: transform .2s;
+}
+.topbar-social .btn-primary:hover{
+  transform: scale(1.5);
+  color: #FFFFFF;
+  background-color: #84201B;
+  border-color: #84201B;
+}

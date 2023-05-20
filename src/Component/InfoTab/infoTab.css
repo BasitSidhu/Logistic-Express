@@ -1,0 +1,48 @@
+.infoTabtext{
+    color: #84201B;
+    /* line-height: 1.2; */
+    font-size: 46px;
+    padding: 5px;
+    /* display: inline-flex;
+    background: #f8f7f7;
+    opacity: .8; */
+    border-radius: 10px;
+
+}
+.infoTab_input{
+    border: none;
+    outline: none;
+    height: 4rem;
+    width: 23rem;
+    padding: 20px;
+}
+.trackingTab{
+    display: flex;
+    align-items:center;
+    gap: 5px;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.infoTab .btn-primary {
+   
+    color: #FFFFFF ;
+    background-color: #84201B;
+    border-color: #84201B;
+    height: 4rem;
+    border-radius: 0px;
+  }
+
+  @media screen and (max-width: 420px) {
+    .infoTab .slogan{
+        width: 30rem;
+    }
+  }
+
+  /* import image1 from "../../img/plane.jpg"; */
+
+  .InfoTab{
+ /* background: url(../../img/plane.jpg) no-repeat; */
+ height: 100vh;
+ width: 100%;
+  }

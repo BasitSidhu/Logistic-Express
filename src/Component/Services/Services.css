@@ -1,0 +1,19 @@
+.services-heading{
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-weight: semi-bold;
+    color: #84201B;
+}
+.services-middle{
+    padding-bottom: 4.5rem !important;
+}
+.services-right{
+    padding-bottom: 3.9rem !important;
+}
+.server-border-color{
+    --bs-border-opacity: 1;
+    border-color: rgba(142, 23, 7, 0.76)!important;
+}
+.servicepage{
+    margin-top: 8rem;
+}
